@@ -1,6 +1,6 @@
 package io.github.vertxchina.interfaces.web
 
-import com.makebuk.universe.infrastructure.handler.DefaultExceptionHandler
+import io.github.vertxchina.infrastructure.handler.DefaultExceptionHandler
 import io.vertx.core.Vertx
 import io.vertx.core.http.HttpMethod
 import io.vertx.core.internal.logging.LoggerFactory

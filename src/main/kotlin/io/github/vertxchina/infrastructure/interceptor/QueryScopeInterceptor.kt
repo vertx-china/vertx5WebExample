@@ -1,6 +1,7 @@
 package io.github.vertxchina.infrastructure.interceptor
 
 
+import io.github.vertxchina.domain.result.R
 import io.vertx.core.json.JsonObject
 import io.vertx.ext.web.RoutingContext
 
